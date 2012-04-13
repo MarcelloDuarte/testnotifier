@@ -1,0 +1,7 @@
+<phpunit>
+ <testsuites>
+  <testsuite name="SomeTest">
+   <directory>/var/www/sismo-standalone/test-notifier/tests</directory>
+  </testsuite>
+ </testsuites>
+</phpunit>
